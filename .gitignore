@@ -1,4 +1,11 @@
-build
-composer.lock
-docs
+.idea
+.vscode
+*.iml
+.php_cs
+.php_cs.cache
 vendor
+composer.phar
+composer.lock
+coverage.xml
+coverage
+phpunit.xml

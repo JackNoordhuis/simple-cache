@@ -1,0 +1,6 @@
+name: simple-cache
+description: Common interfaces for simple caching
+version: 1.0.0
+antigen: Psr\SimpleCache
+php: [^5.3]
+authors: [PHP-FIG, JackNoordhuis]
